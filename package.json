@@ -1,0 +1,23 @@
+{
+  "name": "reddit-infinity-api",
+  "version": "1.0.0",
+  "description": "Node based REST API for the Reddit-Infinity application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonwritescode/reddit-infinity-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonwritescode/reddit-infinity-api/issues"
+  },
+  "homepage": "https://github.com/brandonwritescode/reddit-infinity-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
