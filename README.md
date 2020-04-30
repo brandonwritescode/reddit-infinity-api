@@ -2,3 +2,5 @@
 Node based REST API for the Reddit-Infinity application.
 
 https://www.reddit.com/dev/api/
+
+update with new ubuntu env
