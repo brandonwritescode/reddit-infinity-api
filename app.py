@@ -31,15 +31,6 @@ def test():
                          username=os.getenv("USERNAME"),
                          password=os.getenv("PASSWORD"))
 
-    for i in dir(reddit):
-        print("Reddit param: ", i)
-
-    print(help(reddit.redditor))
-
-    print(reddit.read_only)
-
-
-
     return jsonify({"message":"this is a test endpoint."})
 
 
