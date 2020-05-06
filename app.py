@@ -37,3 +37,9 @@ def test():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+
+
+
+# https://www.reddit.com/api/me.json
+# https://www.reddit.com/r/randnsfw/top.json?limit=50
